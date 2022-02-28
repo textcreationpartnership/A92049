@@ -1,0 +1,1064 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The royal martyrs or, a list of the lords, knights, commanders, and gentlemen, that were slain in the late wars, in defence of their King and country. As also of those executed by the high courts of justice or law-martial.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92049</idno>
+            <idno type="STC">Wing R2134</idno>
+            <idno type="STC">Thomason 669.f.25[32]</idno>
+            <idno type="EEBO-CITATION">99872281</idno>
+            <idno type="PROQUEST">99872281</idno>
+            <idno type="VID">163837</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92049)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163837)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f25[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The royal martyrs or, a list of the lords, knights, commanders, and gentlemen, that were slain in the late wars, in defence of their King and country. As also of those executed by the high courts of justice or law-martial.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Newcomb, living in Thames-street over against Baynards Castle,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At foot of text: If the names of any persons of quality have escaped the industry of the collectors pen, upon notice given to the printer, they shall be inserted.</note>
+                  <note>Annotation on Thomason copy: "May 23".</note>
+                  <note>Reproductions of the originals in the Harvard University Library and the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royalists --  Great Britain --  Death --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Registers of dead.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:163837:1" rendition="simple:additions"/>
+            <head>THE
+ROYAL MARTYRS:
+OR,
+A LIST of the Lords, Knights, Commanders, and Gentlemen, that were ſlain in the late Wars, in defence of
+their KING and COUNTRY. As alſo of thoſe Executed by High Courts of Juſtice or Law-Martial.</head>
+            <epigraph>
+               <bibl>PROV. 10.</bibl>
+               <q>The Memory of the Juſt is bleſſed; but the name of the wicked ſhall rot.</q>
+            </epigraph>
+            <list>
+               <head>Earls and Lords.</head>
+               <item>EArl of <hi>Lindſey,</hi> His
+Majeſties Lieutenant-General,
+ſlain at <hi>Edg<g ref="char:EOLhyphen"/>hill, Octob</hi> 23. 1642.</item>
+               <item>Earl of <hi>Northampton,</hi>
+ſlain at <hi>Hopton-heath,</hi> in Stafford-ſhire,
+<hi>March</hi> 19. 1642.</item>
+               <item>
+                  <list>
+                     <item>E. of <hi>Carnarvan</hi>
+                     </item>
+                     <item>E. of <hi>Sunderland</hi>
+                     </item>
+                  </list> Slain at <hi>Newber<g ref="char:EOLhyphen"/>ry,</hi> in <hi>Sept.</hi> 1643.</item>
+               <item>E. of <hi>Lichfield,</hi> ſlain at <hi>Row<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on Heath</hi>
+in Cheſhire, <hi>Sept</hi> 29. 1645.</item>
+               <item>E. of <hi>Kingſton</hi> ſlain ne<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r <hi>Gainsbo<g ref="char:EOLhyphen"/>rough</hi>
+in Lincoln ſh.</item>
+               <item>E. of <hi>Denbigh</hi> received his Deaths-wound
+at <hi>Birmingham, April</hi> 3.
+1643.</item>
+               <item>
+                  <hi>The Lord</hi> Francis Villiers <hi>ſlain at</hi>
+Comb Park, July 7. 1648.</item>
+               <item>Marqueſs <hi>de Vieuville</hi> (a native of
+<hi>France</hi>) ſlain at <hi>Newberry. Sept.</hi>
+17. 1643.</item>
+               <item>Lord Viſcount <hi>Falkland</hi> there alſo.</item>
+               <item>Lord <hi>D'ambigny</hi> ſlain at <hi>Edghill.</hi>
+               </item>
+               <item>Lord <hi>John Stuart</hi> ſlain near <hi>Al<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es<g ref="char:EOLhyphen"/>ford</hi>
+in Hampſh.</item>
+               <item>Lord <hi>Grandiſon</hi> received his Deaths
+wound at <hi>Briſtol.</hi>
+               </item>
+               <item>Lord <hi>Cary</hi> ſlain at <hi>Marſton Moor</hi>
+in <hi>July</hi> 1644.</item>
+               <item>Sir <hi>Henry Conſtable</hi> L. Viſcount
+<hi>Dunbar,</hi> at <hi>Scarborough</hi> Caſtle.</item>
+               <item>Baron <hi>D'aunneau</hi> (a Dutchman)
+ſlain at <hi>Nottingham.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Baronets and Knights.</head>
+               <item>Sir <hi>Edmund Verney,</hi> His Majeſties
+Standard bearer, ſlain at <hi>Edghill.</hi>
+               </item>
+               <item>Sir <hi>Bevil Greenvile</hi> at <hi>Landſdown</hi>
+July. 5. 1643.</item>
+               <item>Sir <hi>Nicholas Sla<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nyng</hi> at <hi>Bristol</hi>
+July 26. 1643.</item>
+               <item>Sir <hi>Rich. Lawdy</hi> at <hi>Cover</hi> in Glou<g ref="char:EOLhyphen"/>ceſter
+ſh.</item>
+               <item>
+                  <list>
+                     <item>
+                        <hi>Sir</hi> Ingram H<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>pton</item>
+                     <item>
+                        <hi>Sir</hi> George Bowls</item>
+                  </list> 
+                  <hi>at</hi> Win<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>by <hi>near</hi>
+S Horn Cas;tle.</item>
+               <item>
+                  <list>
+                     <item>
+                        <hi>Sir</hi> Will. Butler</item>
+                     <item>
+                        <hi>Sir</hi> Will. Clark</item>
+                  </list> at <hi>Cropedy</hi> Bridge
+June 29. 1644.</item>
+               <item>
+                  <list>
+                     <item>
+                        <hi>Sir</hi> Tho. Meth<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m</item>
+                     <item>
+                        <hi>Sir</hi> Will. Lampton</item>
+                  </list> 
+                  <hi>at</hi> Marſton Moor</item>
+               <item>
+                  <hi>Sir</hi> Auth. Manſe<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l, <hi>at</hi> Newberry.</item>
+               <item>Sir <hi>John Smith</hi> (who reſcued the
+Kings Standard at <hi>Edghill</hi>) ſlain
+near <hi>Alresford</hi> in Hampſh</item>
+               <item>
+                  <hi>Sir</hi> Anth St. Leger <hi>at</hi> Newberry
+Octob. 27. 1644.</item>
+               <item>Sir <hi>Henry Gage,</hi> at <hi>Cullom</hi> Bridge
+near <hi>Abingdon,</hi> Jan 11. 1644.</item>
+               <item>Sir <hi>Michael Earnley,</hi> ſlain at the
+ſurpriſal of <hi>Shrewsbury.</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> John Girlington, <hi>near</hi> Melton
+Mowbray.</item>
+               <item>
+                  <hi>Sir</hi> William Manwaring <hi>at</hi> Cheſter.</item>
+               <item>Sir <hi>John Digby</hi> received his Deaths
+wound at <hi>Langport</hi> in Com. Som<g ref="char:EOLhyphen"/>merſet.</item>
+               <item>Sir <hi>William Croft</hi> ſlain at <hi>Stokeſey</hi>
+in Shropſh. June 9. 1645.</item>
+               <item>Sir <hi>Thi Gardiner</hi> in Buckinghamſh</item>
+               <item>Sir <hi>Pet. Brown</hi> of <hi>Kiddington</hi> woun<g ref="char:EOLhyphen"/>ded
+at <hi>Naisby,</hi> died at <hi>Northamp.</hi>
+               </item>
+               <item>
+                  <list>
+                     <item>
+                        <hi>Sir</hi> Tho. Dalliſon</item>
+                     <item>
+                        <hi>Sir</hi> Rich. Cave.</item>
+                  </list> ſlain at <hi>Naisby.</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> Henry Fletcher, <hi>at</hi> Cheſter.</item>
+               <item>
+                  <list>
+                     <item>
+                        <hi>Sir</hi> Bernard Aſtley</item>
+                     <item>
+                        <hi>Sir</hi> Rich. Crane</item>
+                  </list> at <hi>Briſtoll</hi> laſt ſiege.</item>
+               <item>
+                  <list>
+                     <item>
+                        <hi>Sir</hi> Rich. Hutton</item>
+                     <item>
+                        <hi>Sir</hi> Francis Carnaby</item>
+                  </list> at <hi>Sherburn</hi>
+in Yorkſh.</item>
+               <item>Sir <hi>Gilb. Gerrard</hi> jun. near <hi>Ludlow.</hi>
+               </item>
+               <item>
+                  <list>
+                     <item>
+                        <hi>Sir</hi> Will. Wentworth</item>
+                     <item>
+                        <hi>Sir</hi> Charls Slingsby</item>
+                     <item>
+                        <hi>Sir</hi> Francis Dacre</item>
+                  </list> 
+                  <hi>at</hi> Marſton
+Moor.</item>
+               <item>Sir <hi>Richard Goodhill,</hi> wounded in
+<hi>Wales,</hi> died at <hi>Worceſter.</hi>
+               </item>
+               <item>Sir <hi>Brian Stapleton</hi> in Yorkſh.</item>
+               <item>
+                  <hi>Sir</hi> Lodowick Wyer <hi>at</hi> Banbury.</item>
+               <item>
+                  <hi>Sir</hi> Philip Byron <hi>at</hi> York.</item>
+               <item>Sir <hi>Nicholas Forteſcu</hi> (Knight of
+<hi>Malta</hi>) ſlain in Lancaſhire.</item>
+               <item>Sir <hi>Troilus Turbervil</hi> (Capt. Lieut
+of the Kings Life Guard) ſlain at
+His Majeſties marching from
+<hi>Newark</hi> to <hi>Oxford.</hi>
+               </item>
+               <item>Sir <hi>Tho. Tildeſly,</hi> ſlain at <hi>Wiggan</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> Nic Kemiſh <hi>at</hi> Chepſtow.</item>
+               <item>
+                  <hi>Sir.</hi> Rich. Gleddal <hi>at</hi> Heſſam M<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or.</item>
+            </list>
+            <list>
+               <head>Colonels.</head>
+               <item>Col. <hi>Tho. Howard</hi> (ſon of the Lord
+<hi>William</hi>) ſlain at <hi>Piersbrig.</hi>
+               </item>
+               <item>
+                  <hi>Col.</hi> Charls Cavendiſh <hi>near</hi> Gainsb.</item>
+               <item>Col. <hi>Tho. Howard</hi> (ſon of Sir <hi>Fran<g ref="char:EOLhyphen"/>cis</hi>)
+at <hi>Atherton Moor</hi> June 30.
+1643.</item>
+               <item>Col. <hi>George Hern,</hi> there alſo.</item>
+               <item>Col. <hi>Ferdinando Stanhop</hi> ſlain in
+Nottinghamſh</item>
+               <item>Col. <hi>Stanhop</hi> his brother at
+<hi>Shelford houſe,</hi> Octob. 25. 1645</item>
+               <item>Col. <hi>Cuthbert Conniers</hi> at <hi>Malpaſs</hi>
+in Cheſhire, Auguſt. 1644.</item>
+               <item>Col <hi>Thomas Morgan</hi> of <hi>Weſton</hi> at
+<hi>Newberry</hi> firſt battle.</item>
+               <item>
+                  <hi>Col.</hi> John Arundel <hi>at</hi> Plymouth.</item>
+               <item>
+                  <list>
+                     <item>
+                        <hi>Col.</hi> Hen. Lunsford</item>
+                     <item>Col. <hi>Buck</hi>
+                     </item>
+                     <item>Col. <hi>Trevanian</hi>
+                     </item>
+                  </list> ſlain at <hi>Briſtol</hi>
+July 26. 1643.</item>
+               <item>
+                  <list>
+                     <item>Col <hi>Hern</hi> (ſon of S. <hi>Edw.</hi>
+                     </item>
+                     <item>Col. <hi>Beton</hi>
+                     </item>
+                  </list> ſlain at <hi>Gainsb.</hi>
+               </item>
+               <item>Col. <hi>John Marrow,</hi> in Cheſhire.</item>
+               <item>Col. <hi>Tho. Dalton</hi> wounded at <hi>New<g ref="char:EOLhyphen"/>berry</hi>
+died at <hi>Marlborough.</hi>
+               </item>
+               <item>Col. <hi>Bernard</hi> (with divers Gent.)
+put to the Sword at <hi>Cannon-froo<gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi>
+in Herefordſh. in July 1645.</item>
+               <item>
+                  <hi>Col</hi> Middleton <hi>at</hi> Hopton Heath.</item>
+               <item>
+                  <hi>Col.</hi> Francis Hung<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> at Cheſter</item>
+               <item>Col <hi>My<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> ſlain in Glouceſterſh.</item>
+               <item>
+                  <hi>Col.</hi> Will. Bains <hi>at</hi> Malpaſs.</item>
+               <item>Col <hi>Billingſley</hi> at <hi>Bridgenorth.</hi>
+               </item>
+               <item>Col <hi>Whitley</hi> at <hi>Conway</hi> Caſtle.</item>
+               <item>Col. <hi>Pinchback</hi> at <hi>Newberry.</hi>
+               </item>
+               <item>Col <hi>Rich. Green</hi> at <hi>Beeſton</hi> Caſtle.</item>
+               <item>
+                  <list>
+                     <item>Col <hi>Kirton</hi>
+                     </item>
+                     <item>Col. <hi>Prideaux</hi>
+                     </item>
+                  </list> 
+                  <hi>at</hi> Marſton Moor</item>
+               <item>
+                  <hi>Col</hi> Rich. Mannyng, <hi>near</hi> Alresford.</item>
+               <item>Col. <hi>Will. Ewre</hi> (brother of the
+Lord <hi>Ewre</hi>) at <hi>Marſton Moor.</hi>
+               </item>
+               <item>Col <hi>John Fenwick,</hi> there alſo.</item>
+               <item>Col. <hi>Bluet</hi> ſlain at <hi>Lyme.</hi>
+               </item>
+               <item>
+                  <hi>Col.</hi> St. George <hi>at</hi> Leiceſter.</item>
+               <item>Col. <hi>Dalby</hi> at <hi>Winkfield</hi> Mannor.</item>
+               <item>
+                  <hi>Col</hi> Caſſey Bental <hi>at</hi> Stow.</item>
+               <item>Col <hi>Cuth Ratcliff</hi> at—</item>
+               <item>Col <hi>Philips</hi> near <hi>Wincheſter.</hi>
+               </item>
+               <item>Col <hi>Taylor</hi> at <hi>Briſtol.</hi>
+               </item>
+               <item>
+                  <hi>Col</hi> Will. Winn <hi>at</hi> Wem.</item>
+               <item>Col. <hi>Bawd</hi> at <hi>Naisby.</hi>
+               </item>
+               <item>
+                  <hi>Col.</hi> Cuthbert Clifton <hi>at</hi> Mancheſter</item>
+               <item>Col <hi>Leak</hi> at <hi>Newark</hi>
+               </item>
+               <item>
+                  <hi>Col.</hi> James Chidley <hi>at</hi> Dartmouth.</item>
+               <item>Col. <hi>Bowles</hi> at <hi>Alton.</hi>
+               </item>
+               <item>Col. <hi>Hugh Windham</hi> in Dorſetſh.</item>
+               <item>
+                  <hi>Col.</hi> Rich Poor <hi>in</hi> Wales.</item>
+               <item>Col. <hi>Pert</hi> in <hi>Cornwal.</hi>
+               </item>
+               <item>Col. <hi>Trollop</hi> at <hi>Wiggan.</hi>
+               </item>
+               <item>Col. <hi>Bagot</hi> at <hi>Naisby.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Lieutenant Colonels.</head>
+               <item>Lieutenant Colonel <hi>Thomas Mark<g ref="char:EOLhyphen"/>ham</hi>
+ſlain near <hi>Gainsborough.</hi>
+               </item>
+               <item>L. C <hi>Monroe</hi> at <hi>Edghil.</hi>
+               </item>
+               <item>L. C <hi>Lancelot Holtby</hi> at <hi>Branceford</hi>
+               </item>
+               <item>L. C. <hi>Colt</hi> at <hi>Radcoat</hi>
+               </item>
+               <item>L. C. <hi>Geo. Preſton</hi> at <hi>Bradford.</hi>
+               </item>
+               <item>
+                  <list>
+                     <item>L C. <hi>Howard</hi>
+                     </item>
+                     <item>L. C. <hi>Ward.</hi>
+                     </item>
+                  </list> ſlain at <hi>Landsdown.</hi>
+               </item>
+               <item>L. C. <hi>Pavyer</hi> at <hi>Lincoln.</hi>
+               </item>
+               <item>L. C <hi>Edw. Wiburn</hi> ſlain at <hi>Baſing<g ref="char:EOLhyphen"/>houſe</hi>
+in cold bloud</item>
+               <item>L C. <hi>Johnſon</hi> ſlain at <hi>Baſing.</hi>
+               </item>
+               <item>L. C <hi>Haggerſton</hi> at <hi>Preſton.</hi>
+               </item>
+               <item>
+                  <list>
+                     <item>L. C. <hi>Liſte</hi>
+                     </item>
+                     <item>L. C. <hi>Steniwood</hi>
+                     </item>
+                  </list> ſlain at <hi>Marſton Moor.</hi>
+               </item>
+               <item>L C. <hi>Jordan Metham</hi> at <hi>Pontfract</hi>
+Caſtle, March. 1. 1644.</item>
+               <item>L C. <hi>John Gower</hi> at <hi>Scarborough</hi>
+               </item>
+               <item>L C. <hi>Tho. Ewre</hi> at <hi>Newberry.</hi>
+               </item>
+               <item>
+                  <list>
+                     <item>L. C. <hi>Sayer</hi>
+                     </item>
+                     <item>L. C. <hi>Lawſon</hi>
+                     </item>
+                  </list> at <hi>Naisby.</hi>
+               </item>
+               <item>L C. <hi>Topham</hi> at <hi>Newberry</hi> 1. bat.</item>
+               <item>L. C. <hi>Will. Hougton</hi> at <hi>Newberry</hi> 2.</item>
+               <item>
+                  <list>
+                     <item>L. C <hi>Philip Howard.</hi>
+                     </item>
+                     <item>L. C. <hi>Michael Conſtable</hi>
+                     </item>
+                  </list> at <hi>Che<g ref="char:EOLhyphen"/>ſter.</hi>
+               </item>
+               <item>L. C <hi>Story</hi> in Glouceſterſh.</item>
+               <item>L. C. <hi>Moyle</hi> at <hi>Briſtol.</hi>
+               </item>
+               <item>
+                  <list>
+                     <item>L. C. <hi>Ballard</hi>
+                     </item>
+                     <item>L. C <hi>Muddiford</hi>
+                     </item>
+                  </list> at <hi>Taunton.</hi>
+               </item>
+               <item>L. C. <hi>Jones</hi> at <hi>Bridgwater.</hi>
+               </item>
+               <item>L. C <hi>Slingsby</hi> at <hi>Newberry.</hi>
+               </item>
+               <item>L. C. <hi>Bolton</hi> at <hi>Nantwich.</hi>
+               </item>
+               <item>L. C. <hi>Scot</hi> at <hi>Alresford.</hi>
+               </item>
+               <item>L. C. <hi>Godfrey</hi> at <hi>Tewksbury.</hi>
+               </item>
+               <item>L. C <hi>Ger. Salvin</hi> at <hi>Northallerton.</hi>
+               </item>
+               <item>L. C. <hi>Poſt Kirton</hi> at.</item>
+               <item>L. C. <hi>Dewes</hi> at <hi>Reading.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Serj. Majors.</head>
+               <item>Major <hi>Cufand</hi> ſlain at <hi>Baſing-houſe</hi>
+upon cold bloud.</item>
+               <item>M. <hi>Huddleſton</hi> at <hi>York.</hi>
+               </item>
+               <item>
+                  <list>
+                     <item>
+                        <hi>M.</hi> Rich. Harborn</item>
+                     <item>M. <hi>Heskith</hi>
+                     </item>
+                  </list> at <hi>Malpaſs.</hi>
+               </item>
+               <item>M <hi>Beaumont</hi> at <hi>Leeds</hi>
+               </item>
+               <item>
+                  <hi>M.</hi> Geo. Pluckney <hi>near</hi> Stamford.</item>
+               <item>M. <hi>Kendal</hi> at <hi>Briſtol.</hi>
+               </item>
+               <item>M. <hi>Smith</hi> at.</item>
+               <item>
+                  <hi>M.</hi> Pate <hi>near</hi> Aſhby-dela-Zouch.</item>
+               <item>
+                  <list>
+                     <item>M. <hi>Sheldon</hi>
+                     </item>
+                     <item>M. <hi>Lower</hi>
+                     </item>
+                  </list> at <hi>Landsdown.</hi>
+               </item>
+               <item>M. <hi>Williams</hi> in <hi>Southwales.</hi>
+               </item>
+               <item>
+                  <hi>M.</hi> Tho. Vavaſor <hi>at</hi> Marſton Moor.</item>
+               <item>M. <hi>Threave</hi> at <hi>Torrington.</hi>
+               </item>
+               <item>M. <hi>Dubleday</hi> at.</item>
+               <item>M <hi>Gower</hi> at <hi>Scarborough.</hi>
+               </item>
+               <item>M. <hi>Trevillian</hi> at <hi>Newberry.</hi>
+               </item>
+               <item>M. <hi>Turner</hi> at.</item>
+               <item>
+                  <list>
+                     <item>M. <hi>Price</hi>
+                     </item>
+                     <item>M. <hi>Garneer</hi>
+                     </item>
+                  </list> at <hi>Briſtol.</hi>
+               </item>
+               <item>
+                  <hi>M.</hi> Will. Leak <hi>at</hi> Newberry 2.</item>
+               <item>
+                  <hi>M.</hi> Laur. Clifton <hi>at</hi> Shelford houſe.</item>
+               <item>M. <hi>Pilkington</hi> at.</item>
+               <item>M. <hi>Armstrong</hi> at <hi>Oxford.</hi>
+               </item>
+               <item>M. <hi>Dewet</hi> (a Frenchman) at <hi>Lechlade</hi>
+               </item>
+               <item>M. <hi>Pollard</hi> at <hi>Dartmouth.</hi>
+               </item>
+               <item>M. <hi>Clarke</hi> at <hi>Yorke.</hi>
+               </item>
+               <item>M. <hi>Metcalf</hi> at.</item>
+               <item>M. <hi>Wigmore</hi> at <hi>Ilmiſter.</hi>
+               </item>
+               <item>M. <hi>Wilſon</hi> at <hi>Naisby.</hi>
+               </item>
+               <item>M. <hi>Spotſwood</hi> at <hi>Wem.</hi>
+               </item>
+               <item>
+                  <hi>M.</hi> Tho. Whitmore <hi>at</hi> Muſcam.</item>
+               <item>M. <hi>Dean</hi> at <hi>Briſtol.</hi>
+               </item>
+               <item>M. <hi>Dacre</hi> at <hi>Weſthoughton.</hi>
+               </item>
+               <item>M. <hi>Salvin</hi> at <hi>York.</hi>
+               </item>
+               <item>M. <hi>Walter Baskerfield</hi> in Bedfordſh.</item>
+               <item>M. <hi>Bunnington</hi> at <hi>Leiceſter.</hi>
+               </item>
+               <item>M. <hi>How</hi> at <hi>Keighley</hi>
+               </item>
+               <item>M. <hi>Robſon</hi> in <hi>Durham.</hi>
+               </item>
+               <item>M. <hi>Jenkins</hi> at <hi>Colum</hi> in Yorkſh.</item>
+               <item>M. <hi>Wormley</hi> at <hi>Cirenceſter.</hi>
+               </item>
+               <item>M. <hi>Riveley</hi> wounded at <hi>Naisby,</hi> died
+in priſon at <hi>London.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Captains.</head>
+               <item>C. <hi>Marm Conſtable</hi> (Standard-bear<g ref="char:EOLhyphen"/>er
+to the L. G. <hi>Lindſey</hi>) ſl. at <hi>Edgh.</hi>
+               </item>
+               <item>
+                  <list>
+                     <item>
+                        <hi>C.</hi> Henry Byron</item>
+                     <item>
+                        <hi>C.</hi> Kingſmill</item>
+                  </list> at <hi>Edghill.</hi>
+               </item>
+               <item>
+                  <list>
+                     <item>
+                        <hi>C.</hi> William Laborn</item>
+                     <item>
+                        <hi>C.</hi> Math. Anderton</item>
+                  </list> ſlain at <hi>Sheriff-Hutton.</hi>
+               </item>
+               <item>C. <hi>Plunket</hi> at.</item>
+               <item>
+                  <hi>C.</hi> John Lampton <hi>at</hi> Bradford.</item>
+               <item>
+                  <hi>C.</hi> Joſeph Conſtable <hi>at</hi> Newberry 1.</item>
+               <item>C. <hi>William Bowls</hi> at.</item>
+               <item>
+                  <hi>C.</hi> Tho. Winkley <hi>at</hi> Leverpool.</item>
+               <item>C. <hi>Thurſtan Anderton</hi> wounded at
+<hi>Newberry,</hi> died at <hi>Oxford.</hi>
+               </item>
+               <item>C. <hi>Will. Williamſon</hi> at.</item>
+               <item>C. <hi>James</hi> at <hi>Landsdown.</hi>
+               </item>
+               <item>C. <hi>Corniſham</hi> ſlain at <hi>Landsdown.</hi>
+               </item>
+               <item>
+                  <hi>C.</hi> Ratcliff Houghton <hi>at</hi> Preſton.</item>
+               <item>
+                  <hi>C.</hi> Hugh Hen <hi>at</hi> Faringdon.</item>
+               <item>
+                  <hi>C.</hi> Tho. Whittingham <hi>at</hi> Newberry</item>
+               <item>
+                  <hi>C.</hi> Hugh Houghton <hi>at</hi> Reading.</item>
+               <item>C. <hi>Vaughan</hi> at.</item>
+               <item>C. <hi>Goring</hi> at <hi>Newberry.</hi>
+               </item>
+               <item>
+                  <hi>C.</hi> Robert Molineux <hi>at</hi> Newberry 1.</item>
+               <item>
+                  <hi>C.</hi> Cha. Osburn <hi>near</hi> Hartland.</item>
+               <item>C. <hi>Fry</hi> at <hi>Torrington.</hi>
+               </item>
+               <item>
+                  <hi>C.</hi> Cha. Thimelby <hi>at</hi> Worceſter.</item>
+               <item>C. <hi>Cottingham</hi> at.</item>
+               <item>C. <hi>Gardiner</hi> at <hi>Tame.</hi>
+               </item>
+               <item>
+                  <hi>C.</hi> John Bird <hi>at</hi> Marſton Moor.</item>
+               <item>C. <hi>Rich</hi> at <hi>Briſtol.</hi>
+               </item>
+               <item>C. <hi>Needham</hi> at <hi>Shrewsbury.</hi>
+               </item>
+               <item>C. <hi>Tho. Meynel</hi> at <hi>Pontfract</hi> Caſtle</item>
+               <item>
+                  <hi>C.</hi> Fits-James <hi>at</hi> Bridgwater.</item>
+               <item>C. <hi>Cha. Stuart</hi> in Warwickſh.</item>
+               <item>
+                  <list>
+                     <item>
+                        <hi>C.</hi> Chriſtopher Wray</item>
+                     <item>C. <hi>Bunce</hi>
+                     </item>
+                  </list> at <hi>Bradford.</hi>
+               </item>
+               <item>C. <hi>John Clifton</hi> at <hi>Shelford</hi> houſe.</item>
+               <item>C. <hi>Rodman</hi> at <hi>Pontfract.</hi>
+               </item>
+               <item>C. <hi>W. Fenwick</hi> at <hi>Boulton</hi> in Yorkſh</item>
+               <item>
+                  <list>
+                     <item>
+                        <hi>C.</hi> Abraham Lance</item>
+                     <item>
+                        <hi>C.</hi> Robert Lance</item>
+                  </list> brothers, ſlain
+in Cheſhire.</item>
+               <item>C. <hi>Slany</hi> at.</item>
+               <item>C. <hi>Coney</hi> at <hi>Whaley</hi> in Lancaſh.</item>
+               <item>
+                  <hi>C.</hi> Rich. Wolfole <hi>at</hi> Newberry.</item>
+               <item>C. <hi>Chamberlain</hi> at.</item>
+               <item>C. <hi>Farrar</hi> at <hi>Nantwich.</hi>
+               </item>
+               <item>C. <hi>Buſh<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l</hi> at</item>
+               <item>
+                  <hi>C.</hi> James Baſſet <hi>at</hi> Lanceſton.</item>
+               <item>
+                  <hi>C.</hi> Edw Ron <hi>at</hi> Wakefield.</item>
+               <item>
+                  <hi>C.</hi> Anth Hammerton <hi>near</hi> Mancheſt</item>
+               <item>
+                  <hi>C.</hi> Will. Simc<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts <hi>at</hi> Newberry 1.</item>
+               <item>C. <hi>Gerard</hi> at.</item>
+               <item>
+                  <hi>C.</hi> Joh. Whitley <hi>at</hi> Harding.</item>
+               <item>C. <hi>Sares</hi> at <hi>
+                     <g ref="char:V">Ʋ</g>toxater,</hi>
+               </item>
+               <item>
+                  <hi>C.</hi> Tho. Singleton <hi>at</hi> Newberry 1.</item>
+               <item>
+                  <hi>C.</hi> Fran. Errington <hi>at</hi> Rotheram.</item>
+               <item>
+                  <hi>C.</hi> Nich. Fitzackerley <hi>at</hi> Leverpool.</item>
+               <item>
+                  <list>
+                     <item>C. <hi>Butler</hi>
+                     </item>
+                     <item>
+                        <hi>C.</hi> Max. Nelſon</item>
+                  </list> 
+                  <hi>at</hi> Marſton Moor</item>
+               <item>
+                  <hi>C.</hi> William Lampton <hi>at</hi> Wakefield.</item>
+               <item>
+                  <list>
+                     <item>C. <hi>Topham</hi>
+                     </item>
+                     <item>
+                        <hi>C.</hi> L. Burbeck</item>
+                  </list> at <hi>Carliſle.</hi>
+               </item>
+               <item>C. <hi>Baxter</hi> at <hi>Baughton</hi> near <hi>Cheſt.</hi>
+               </item>
+               <item>
+                  <hi>C.</hi> Henry Alderſey</item>
+               <item>
+                  <hi>C.</hi> John Adlington</item>
+               <item>at <hi>Cheſter.</hi>
+               </item>
+               <item>
+                  <list>
+                     <item>
+                        <hi>C.</hi> Gilb. Markham</item>
+                     <item>C. <hi>Meſſenger</hi>
+                     </item>
+                     <item>
+                        <hi>C.</hi> Dan. Thorold</item>
+                     <item>C. <hi>Greenbury</hi>
+                     </item>
+                     <item>
+                        <hi>C.</hi> Tho. Gough</item>
+                  </list> at <hi>Naisby.</hi>
+               </item>
+               <item>
+                  <hi>C.</hi> John Rooksby <hi>at</hi> Sherburn.</item>
+               <item>C. <hi>Gaſcoign</hi> near <hi>Melton.</hi>
+               </item>
+               <item>C. <hi>Sandford</hi> at <hi>Nantwich.</hi>
+               </item>
+               <item>C. <hi>Gilb. Aſhton</hi> at <hi>Boulton</hi> in Lanc.</item>
+               <item>
+                  <list>
+                     <item>
+                        <hi>C.</hi> Anth. Awd</item>
+                     <item>
+                        <hi>C.</hi> Tho. Cole</item>
+                  </list> at <hi>Newark</hi> in a
+Sally.</item>
+               <item>C. <hi>Huddleſton</hi> at <hi>York.</hi>
+               </item>
+               <item>
+                  <hi>C.</hi> Dudley Smith <hi>at</hi> Roundway-down</item>
+               <item>C. <hi>Sam. W<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nman</hi> in Devonſh.</item>
+               <item>C. <hi>O<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mſhaw</hi> near <hi>Oxford.</hi>
+               </item>
+               <item>
+                  <hi>C.</hi> Joſeph Daviſon <hi>at</hi> Newcaſtle.</item>
+               <item>
+                  <hi>C.</hi> Fran. Clifton <hi>at</hi> Newberry 1.</item>
+               <item>C. <hi>Standiſh</hi> at <hi>Mancheſter.</hi>
+               </item>
+               <item>
+                  <list>
+                     <item>
+                        <hi>C.</hi> Roger Houghton</item>
+                     <item>
+                        <hi>C.</hi> Edw. Bradley</item>
+                     <item>C. <hi>Meynel.</hi>
+                     </item>
+                  </list> 
+                  <hi>at</hi> Marſton M</item>
+               <item>
+                  <list>
+                     <item>
+                        <hi>C.</hi> Edw. Wynn</item>
+                     <item>C. <hi>Swords</hi>
+                     </item>
+                     <item>C. <hi>Parroy</hi>
+                     </item>
+                  </list> ſlain at <hi>Denbigh.</hi>
+               </item>
+               <item>
+                  <hi>C.</hi> John Lance <hi>at</hi> Iſtep.</item>
+               <item>
+                  <hi>C.</hi> Charls Blount <hi>at</hi> Glouceſter.</item>
+               <item>
+                  <hi>C.</hi> Geo. Caſſey <hi>at</hi> Hereford.</item>
+               <item>
+                  <hi>C.</hi> Anth Girlington <hi>at</hi> Lancaſter.</item>
+               <item>C. <hi>Langdale</hi> in <hi>Wales</hi>
+               </item>
+               <item>C. <hi>Carver</hi> in Monmouthſh.</item>
+               <item>
+                  <hi>C.</hi> John Lingen <hi>at</hi> Ledbury.</item>
+               <item>C. <hi>S<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mwaies</hi> at <hi>Newberry</hi> 2.</item>
+               <item>
+                  <hi>C.</hi> Will. Arundel <hi>at</hi> Plymouth.</item>
+               <item>
+                  <hi>C.</hi> Fr. Bartu <hi>at</hi> Newberry 1.</item>
+               <item>
+                  <hi>C.</hi> Fr. Godfrey <hi>at</hi> Sherburn.</item>
+               <item>
+                  <hi>C.</hi> John Plumpton <hi>at</hi> York.</item>
+               <item>C. <hi>Yates</hi> at <hi>M<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lton.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Gentlemen Voluntiers.</head>
+               <item>
+                  <list>
+                     <item>Edw. Talbot <hi>Eſq.</hi>
+                     </item>
+                     <item>Charls Townley <hi>Eſq.</hi>
+                     </item>
+                     <item>
+                        <hi>Mr.</hi> Cho. Sherburn</item>
+                  </list> ſlain at <hi>Mar<g ref="char:EOLhyphen"/>ſton
+More.</hi>
+               </item>
+               <item>Edw. Sackvyle <hi>Eſq. near</hi> Oxford.</item>
+               <item>Edw. Preſton <hi>Eſq. at</hi> Ormſchurch.</item>
+               <item>Mr. <hi>Sands</hi> at <hi>Alresford.</hi>
+               </item>
+               <item>Mr. <hi>Price</hi> of <hi>Waſhingly</hi> ſlain at <hi>Lin<g ref="char:EOLhyphen"/>coln</hi>
+in cold bloud.</item>
+               <item>Mr. <hi>Bale</hi> at <hi>Thorp</hi> in Leiceſterſh.
+<hi>Ralph Langton</hi> Eſq. at <hi>Preſton.</hi>
+               </item>
+               <item>Mr. <hi>John Conſtable</hi> in Yorkſh.</item>
+               <item>Mr. <hi>Steven Tempeſt</hi> at the <hi>Deviſes.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Cuth. Ratcliff <hi>at</hi> Newcaſtle.</item>
+               <item>
+                  <hi>Mr.</hi> Joh. Latham <hi>at</hi> Newark.</item>
+               <item>
+                  <hi>Mr.</hi> Rich. Latham <hi>at</hi> Lichfield.</item>
+               <item>
+                  <list>
+                     <item>Mr. <hi>Cary</hi> and</item>
+                     <item>Mr <hi>Jennings</hi>
+                     </item>
+                  </list> 
+                  <hi>at</hi> Shelford houſe.</item>
+               <item>Mr. <hi>Blount</hi> near <hi>Mancheſter.</hi>
+               </item>
+               <item>Mr. <hi>Bourſcale</hi> at <hi>Newberry</hi> 2.</item>
+               <item>Mr. <hi>Courtney</hi> in Lancaſh.</item>
+               <item>
+                  <hi>Mr.</hi> James Anderton <hi>in</hi> Wales.</item>
+               <item>
+                  <hi>Mr.</hi> Steven Pudſey in <hi>Holderneſs.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Fr. Pavyer <hi>at</hi> Marſton M.</item>
+               <item>Mr. <hi>Rick. Brown</hi> in the <hi>Weſt.</hi>
+               </item>
+               <item>
+                  <hi>Mr</hi> Chriſtoph. Anderton <hi>at</hi> Marſton</item>
+               <item>
+                  <hi>Mr.</hi> Cha. Mohun <hi>at</hi> Dartmouth.</item>
+               <item>Mr. <hi>Creſſet</hi> at <hi>Bridgnorth.</hi>
+               </item>
+               <item>
+                  <list>
+                     <item>Alderm. <hi>Daviſon</hi>
+                     </item>
+                     <item>
+                        <hi>Mr.</hi> Tho. Ogle</item>
+                  </list> at <hi>Newcaſtle.</hi>
+               </item>
+               <item>Mr. <hi>St. Johns</hi> in the Weſt.</item>
+               <item>
+                  <hi>Monſieur</hi> St. Paul <hi>at</hi> Marſton M.</item>
+               <item>Mr. <hi>Mort</hi> Mayor of <hi>Preſton</hi> ſl. there</item>
+               <item>
+                  <list>
+                     <item>
+                        <hi>Mr.</hi> Boniface Kemp</item>
+                     <item>Mr. <hi>Hesket</hi>
+                     </item>
+                  </list> near <hi>York.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Miles Lochard <hi>at</hi> Gooderich C.</item>
+               <item>
+                  <hi>Mr.</hi> George Moor <hi>in</hi> Wales.</item>
+               <item>
+                  <hi>Mr.</hi> Peter Davis <hi>at</hi> Denbigh.</item>
+               <item>
+                  <hi>M<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> Edw. Davis <hi>at</hi> Cheſter.</item>
+               <item>Doctor <hi>Weſton</hi> Phyſitian at.</item>
+               <item>Doctor <hi>The. Weſtby</hi> at <hi>Preſton &amp;c.</hi>
+With many more.</item>
+            </list>
+            <list>
+               <head>Executed.</head>
+               <item>Earl of <hi>Strafford</hi> executed at Tow<g ref="char:EOLhyphen"/>er-hill
+May 12. 1641.</item>
+               <item>
+                  <list>
+                     <item>
+                        <hi>Mr.</hi> Rob. Yeomans</item>
+                     <item>
+                        <hi>Mr.</hi> Geo. Bourcher</item>
+                  </list> at <hi>Briſtol</hi> May
+30. 1643.</item>
+               <item>
+                  <list>
+                     <item>
+                        <hi>Mr.</hi> Nath. Tompkins.</item>
+                     <item>Mr. <hi>Chaloner.</hi>
+                     </item>
+                  </list> 
+                  <hi>London</hi> Ju<g ref="char:EOLhyphen"/>ly
+5. 1643.</item>
+               <item>Sir <hi>Alexander Carew,</hi> at Tower-hill
+Dec. 23. 1644.</item>
+               <item>Capt. <hi>Horham</hi> there Jan. 1. 1644.</item>
+               <item>Sir <hi>John Hotham</hi> there Jan. 2. 1644.</item>
+               <item>Archb. of <hi>Cant.</hi> there Jan. 10. 1644.</item>
+               <item>
+                  <list>
+                     <item>
+                        <hi>Sir</hi> Charls Lucas</item>
+                     <item>
+                        <hi>Sir</hi> Geo. Liſle</item>
+                  </list> at <hi>Colcheſter</hi> Aug.
+28 1648.</item>
+               <item>
+                  <list>
+                     <item>Duke <hi>Hamilton</hi>
+                     </item>
+                     <item>Earl of <hi>Holland</hi>
+                     </item>
+                     <item>Lord <hi>Capel</hi>
+                     </item>
+                  </list> in the Pallace
+Yard at <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter</hi>
+Mar. 9. <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>649.</item>
+               <item>
+                  <list>
+                     <item>
+                        <hi>Col.</hi> Jo. Morris</item>
+                     <item>Cor. <hi>Blackburn.</hi>
+                     </item>
+                  </list> at York Aug.
+25. 1649.</item>
+               <item>
+                  <list>
+                     <item>Marq. of <hi>Montroſs</hi>
+                     </item>
+                     <item>M. G. <hi>
+                           <g ref="char:V">Ʋ</g>rrey.</hi>
+                     </item>
+                     <item>Col. <hi>Spotſwood.</hi>
+                     </item>
+                  </list> at <hi>Edinburg</hi>
+May 21. 1649.</item>
+               <item>Col <hi>Euſeb. Andrews</hi> at Tower<g ref="char:EOLhyphen"/>hill
+Aug 22. 1650.</item>
+               <item>Sir <hi>Hen Hide</hi> near the Exchange
+March 4. 1650.</item>
+               <item>Capt. <hi>Brown Buſhel</hi> at <hi>London</hi> April
+21. 1651.</item>
+               <item>
+                  <list>
+                     <item>Mr. <hi>Love</hi>
+                     </item>
+                     <item>Mr. <hi>Gibbons</hi>
+                     </item>
+                  </list> at Tower-hi<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l.</item>
+               <item>
+                  <hi>James</hi> Earl of <hi>D<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rby</hi> at <hi>Bolton</hi> in
+Lancaſhire Oct. 25. 1651.</item>
+               <item>Col <hi>Joh. Gerrard</hi> at Tower h<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll Ju<g ref="char:EOLhyphen"/>ly
+10. 1654</item>
+               <item>Mr. <hi>Peter Vowel</hi> at Charing-Croſs
+July 10. 1654.</item>
+               <item>Capt. <hi>Levins</hi> at the Old Exchange</item>
+               <item>
+                  <list>
+                     <item>Col. <hi>Penruddeck</hi>
+                     </item>
+                     <item>
+                        <hi>Mr.</hi> Hugh Grove</item>
+                  </list> at <hi>Exeter</hi> May
+16. 1655.</item>
+               <item>Col. <hi>Aſhton</hi> in Towerſtreet</item>
+               <item>Mr. <hi>John B<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tley</hi> in Cheapſid.</item>
+               <item>Mr <hi>Edmund Stacy</hi> in Cornhill.</item>
+               <item>
+                  <list>
+                     <item>
+                        <hi>Sir</hi> Henry <gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lingsby</item>
+                     <item>
+                        <hi>Doctor</hi> John Hewet</item>
+                  </list> at Tower-hill
+June 8. 1658.</item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <p>If the names of any perſons of quality have eſcaped the induſtry of the Collectors Pen, upon notice given to the Printer, they ſhall be inſerted.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Newcomb,</hi> living in <hi>Thames-ſtreet</hi> over againſt <hi>Baynards Caſtle.</hi> 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
